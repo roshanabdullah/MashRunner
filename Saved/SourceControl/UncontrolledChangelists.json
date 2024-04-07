@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/NewFolder/Maps/MAP_Debug.umap",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Maps/MAP_Debug.umap",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Background/T_Field.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Background/T_Field_Sprite.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected_Sprite.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped_Sprite.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_0.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_1.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_2.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_3.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_4.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_5.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_6.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_7.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_8.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_9.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/FB_Runner_Idle.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/FB_Runner_Run.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Blueprints/BP_Runner.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Input/IAC_Runner.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Input/Actions/IA_PowerLeft.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Input/Actions/IA_PowerRight.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Blueprints/GM_Runner.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Input/IMC_Runner.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Blueprints/Enums/E_Input.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Curves/C_SpeedIncreaseRamp.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Curves/SpeedDecreaseRamp.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Sounds/Footsteps/Cue_Footstep.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/MAP_Field.umap",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Blueprints/BP_Field.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Sounds/Footsteps/S_Step_1.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Sounds/Footsteps/S_Step_2.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Blueprints/AI/AIC_Runner.uasset",
+				"C:/Users/Abdullah/Documents/Unreal Projects/MashRunner/Content/Blueprints/BP_Goal.uasset"
+			]
+		}
+	]
+}
